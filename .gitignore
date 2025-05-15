@@ -1,3 +1,5 @@
 # Ignore keyframes and videos package
 keyframes/
 videos/
+test_phase3/extracted_images/
+test_phase3/test_pp.pptx
